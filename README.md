@@ -12,6 +12,7 @@ This standalone paper proposes an algebraic-projection interpretation of Special
 The manuscript includes SageMath numerical simulations in Appendix A and discusses the Hecke-orbit construction in Appendix B.
 
 - **Full paper:** [DSIUM_Special_Relativity_Alignments.pdf](./DSIUM_Special_Relativity_Alignments.pdf)
+- **Published record:** [https://doi.org/10.5281/zenodo.24149587](https://doi.org/10.5281/zenodo.24149587)
 
 ## Relation to the broader DSIUM work
 
@@ -32,7 +33,7 @@ You may share the material with appropriate attribution for non-commercial purpo
 
 ## Citation
 
-A machine-readable citation is provided in [CITATION.cff](./CITATION.cff). A DOI for this paper will be added after its Zenodo record is created.
+A machine-readable citation is provided in [CITATION.cff](./CITATION.cff).
 
 ## Versioning
 

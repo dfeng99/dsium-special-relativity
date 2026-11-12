@@ -21,6 +21,15 @@ This is a **standalone second paper** within the broader DSIUM research framewor
 
 The two papers are maintained in separate repositories and have separate version histories and archival records.
 
+## License
+
+Unless otherwise noted, the paper and accompanying materials in this repository are licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
+
+- [License summary](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+- [Full legal code](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
+
+You may share the material with appropriate attribution for non-commercial purposes, but you may not distribute adapted material. See the full legal code for the complete terms. Any third-party material identified as excluded remains subject to its own terms.
+
 ## Citation
 
 A machine-readable citation is provided in [CITATION.cff](./CITATION.cff). A DOI for this paper will be added after its Zenodo record is created.

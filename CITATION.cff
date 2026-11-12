@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Discrete & Shapeless Information Universe Model: Relativity as Algebraic Pointer Projections — Special Relativity Alignments"
+authors:
+  - family-names: Feng
+    given-names: Wen-Lung
+    orcid: "https://orcid.org/0009-0007-2688-9556"
+version: "1.0.0"
+date-released: "2026-11-12"
+url: "https://github.com/dfeng99/dsium-special-relativity"

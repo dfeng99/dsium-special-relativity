@@ -22,6 +22,10 @@ This is a **standalone second paper** within the broader DSTIUM research framewo
 - Feng, W.-L. (2026). *On the Redundancy of Continuous Spacetime Geometry: A Shapeless Model Based on Discrete Planckian Causal Ticks and Shimura Variety Orbit Tunneling*. [https://doi.org/10.5281/zenodo.23685625](https://doi.org/10.5281/zenodo.23685625)
 The two papers are maintained in separate repositories and have separate version histories and archival records.
 
+##History
+v1.0.0  Initial version.
+v1.1.0  Updated Title, Abstract, Model Name, paragraph in Acknowledgments "how can a photon..."
+
 ## License
 
 Unless otherwise noted, the paper and accompanying materials in this repository are licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.

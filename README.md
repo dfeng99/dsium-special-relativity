@@ -23,8 +23,8 @@ This is a **standalone second paper** within the broader DSTIUM research framewo
 The two papers are maintained in separate repositories and have separate version histories and archival records.
 
 ## History
-v1.0.0  Initial version.
-v1.1.0  Updated Title, Abstract, Model Name, paragraph in Acknowledgments "how can a photon..."
+- v1.0.0  Initial version.
+- v1.1.0  Updated Title, Abstract, Model Name, paragraph in Acknowledgments "how can a photon..."
 
 ## License
 

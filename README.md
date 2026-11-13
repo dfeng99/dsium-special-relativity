@@ -13,14 +13,13 @@ This standalone paper proposes an algebraic-projection interpretation of Special
 The manuscript includes SageMath numerical simulations in Appendix A and discusses the Hecke-orbit construction in Appendix B.
 
 - **Full paper:** [DSTIUM_Special_Relativity_Alignments.pdf](./DSTIUM_Special_Relativity_Alignments.pdf)
-- **Published record:** [https://doi.org/10.5281/zenodo.24149587](https://doi.org/10.5281/zenodo.24149587)
+- **Published record:** [https://doi.org/10.5281/zenodo.24149586](https://doi.org/10.5281/zenodo.24149586) 
 
 ## Relation to the broader research framework
 
 This is a **standalone second paper** within the broader DSTIUM research framework. It is related to, but independently versioned from, the earlier paper:
 
-- Feng, W.-L. (2026). *On the Redundancy of Continuous Spacetime Geometry: A Shapeless Model Based on Discrete Planckian Causal Ticks and Shimura Variety Orbit Tunneling*. [https://doi.org/10.5281/zenodo.24007199](https://doi.org/10.5281/zenodo.24007199)
-
+- Feng, W.-L. (2026). *On the Redundancy of Continuous Spacetime Geometry: A Shapeless Model Based on Discrete Planckian Causal Ticks and Shimura Variety Orbit Tunneling*. [https://doi.org/10.5281/zenodo.23685625](https://doi.org/10.5281/zenodo.23685625)
 The two papers are maintained in separate repositories and have separate version histories and archival records.
 
 ## License

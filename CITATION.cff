@@ -5,8 +5,8 @@ authors:
   - family-names: Feng
     given-names: Wen-Lung
     orcid: "https://orcid.org/0009-0007-2688-9556"
-version: "1.0.0"
-doi: "10.5281/zenodo.24149587"
+version: "1.1.0"
+doi: "10.5281/zenodo.24149586"
 date-released: "2026-11-13"
 license: "CC-BY-NC-ND-4.0"
 url: "https://github.com/dfeng99/dsium-special-relativity"
